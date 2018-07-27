@@ -1,0 +1,7 @@
+ro.product.wt.boardid=S98506DA1
+ro.miui.support_fingerprint=true
+ro.build.display.wtid.miui=SW_S98506DA1_V043_M13_XM_C3C_USR_MP
+ro.build.display.wtid.ato=SW_S98506DA1_V030_M13_XM_C3C_USRD_ATO
+ro.product.subproject=S98506DA1
+ro.mtk_sim_hot_swap_common_slot=1
+ro.product.cert=M1804C3CE
